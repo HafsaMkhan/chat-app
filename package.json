@@ -1,9 +1,11 @@
 {
   "dependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "fastify": "^3.20.2",
-    "fastify-mongodb": "^4.1.0",
-    "fastify-plugin": "^3.0.0"
+    "fastify-plugin": "^3.0.0",
+    "mongoose": "^5.13.7"
   },
   "devDependencies": {
     "@types/node": "^16.6.1",
